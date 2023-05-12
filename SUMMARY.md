@@ -12,8 +12,11 @@
   * [实现 IDataTemplate](docs/mo-ban-templates/shi-xian-idatatemplate.md)
   * [在代码中创建数据模板](docs/mo-ban-templates/zai-dai-ma-zhong-chuang-jian-shu-ju-mo-ban.md)
 * [Page 1](docs/page-1.md)
-
-***
-
-* [编写控件](bian-xie-kong-jian/README.md)
-  * [定义属性](bian-xie-kong-jian/defining-properties.md)
+* [编写控件](docs/bian-xie-kong-jian/README.md)
+  * [定义属性](docs/bian-xie-kong-jian/defining-properties.md)
+  * [控件的类型](docs/bian-xie-kong-jian/types-of-control.md)
+* [输入（Input）](docs/input/README.md)
+  * [路由事件](docs/input/routed-events.md)
+  * [剪贴板](docs/input/clipboard.md)
+  * [鼠标和指针设备](docs/input/pointer.md)
+  * [快捷键](docs/input/hotkeys.md)
