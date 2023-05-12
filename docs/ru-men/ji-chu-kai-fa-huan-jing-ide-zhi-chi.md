@@ -14,7 +14,7 @@ Rider 尚未提供视觉设计器，但正在开发中。有关如何安装的�
 
 [Avalonia for Visual Studio 扩展](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaVS)包含一个 XAML 设计器，可用于在您编写 XAML 时显示实时预览。安装 Avalonia for Visual Studio 扩展后，双击 Avalonia XAML 文件将其打开。
 
-<figure><img src="../.gitbook/assets/vs-designer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vs-designer.png" alt=""><figcaption></figcaption></figure>
 
 如果您使用的是 VS2019 或 VS2017，则需要安装[旧版本的扩展](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio)。
 
@@ -124,5 +124,5 @@ namespace My.Namespace
 
 !\[]\(../../../.gitbook/assets/VisualStudioPreviewer\_SelectProjectForPreview.png)
 
-<figure><img src="../.gitbook/assets/VisualStudioPreviewer_SelectProjectForPreview.png" alt=""><figcaption><p>显示如何选择用于渲染预览的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/VisualStudioPreviewer_SelectProjectForPreview.png" alt=""><figcaption><p>显示如何选择用于渲染预览的项目</p></figcaption></figure>
 
