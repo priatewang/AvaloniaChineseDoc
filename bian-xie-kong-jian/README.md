@@ -1,4 +1,4 @@
-# 编写控件
+# ✏ 编写控件
 
 学习如何创建自定义控件。
 
@@ -6,6 +6,6 @@
 [defining-properties.md](defining-properties.md)
 {% endcontent-ref %}
 
-{% content-ref url="types-of-control.md" %}
-[types-of-control.md](types-of-control.md)
+{% content-ref url="../docs/bian-xie-kong-jian/types-of-control.md" %}
+[types-of-control.md](../docs/bian-xie-kong-jian/types-of-control.md)
 {% endcontent-ref %}
