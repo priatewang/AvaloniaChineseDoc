@@ -1,4 +1,4 @@
-# 动画
+# 🔑 动画
 
 在 Avalonia 中有两种类型的动画：
 
@@ -7,5 +7,5 @@
 
 ## 本节内容 <a href="#in-this-section" id="in-this-section"></a>
 
-* 关键帧动画
-* 过渡动画
+* [关键帧动画](keyframe-animations.md)
+* [过渡动画](transitions.md)
