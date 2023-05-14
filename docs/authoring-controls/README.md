@@ -6,6 +6,6 @@
 [defining-properties.md](defining-properties.md)
 {% endcontent-ref %}
 
-{% content-ref url="../docs/bian-xie-kong-jian/types-of-control.md" %}
-[types-of-control.md](../docs/bian-xie-kong-jian/types-of-control.md)
+{% content-ref url="types-of-control.md" %}
+[types-of-control.md](types-of-control.md)
 {% endcontent-ref %}
