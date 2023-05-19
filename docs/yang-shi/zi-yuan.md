@@ -128,27 +128,27 @@
 ```
 Application
  |- Resources [11]
-     |- 合并字典 [12]
-     |- 合并字典 [13]
- |- 样式
+     |- Merged dictionary [12]
+     |- Merged dictionary [13]
+ |- Styles
      |- Resources [14]
-         |- 合并字典 [15]
-         |- 合并字典 [16]
+         |- Merged dictionary [15]
+         |- Merged dictionary [16]
 
 Window
  |- Resources [6]
-     |- 合并字典 [7]
- |- 样式
+     |- Merged dictionary [7]
+ |- Styles
      |- Resources [8]
-         |- 合并字典 [9]
-         |- 合并字典 [10]
+         |- Merged dictionary [9]
+         |- Merged dictionary [10]
  |- StackPanel
      |- Resources [1]
-         |- 合并字典 [2]
-         |- 合并字典 [3]
-     |- 样式
+         |- Merged dictionary [2]
+         |- Merged dictionary [3]
+     |- Styles
          |- Resources [4]
-             |- 合并字典 [5]
+             |- Merged dictionary [5]
      |- Border
 ```
 
