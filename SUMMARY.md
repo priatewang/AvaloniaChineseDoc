@@ -24,6 +24,7 @@
   * [选择器](docs/yang-shi/xuan-ze-qi.md)
   * [资源](docs/yang-shi/zi-yuan.md)
   * [故障排除](docs/yang-shi/gu-zhang-pai-chu.md)
+* [🧰 控件](docs/controls.md)
 * [📚 模板（Templates）](docs/mo-ban-templates/README.md)
   * [数据模板](docs/mo-ban-templates/shu-ju-mo-ban.md)
   * [实现 IDataTemplate](docs/mo-ban-templates/shi-xian-idatatemplate.md)
