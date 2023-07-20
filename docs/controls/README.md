@@ -2,7 +2,7 @@
 
 Avalonia 提供了以下几组控件：
 
-* [布局控件](controls.md#bu-ju)
+* [布局控件](./#bu-ju)
 * [按钮](broken-reference)
 * [数据显示控件](broken-reference)
 * [文本显示和编辑](broken-reference)
